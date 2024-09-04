@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Egor 👋
 
 <!--
 **DL4x/DL4x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
