@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DL4x&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/dl4x)
