@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DL4x&layout=compact&theme=dark&border_color=404040&bg_color=101010)](https://github.com/anuraghazra/github-readme-stats)
+### :fire: About Me:
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/DL4x?theme=dark&font=Noto%20Sans)
+---
 
 ### :hammer_and_wrench: Languages and Tools:
 <div>
@@ -31,3 +31,9 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="50" height="50"/>&nbsp;
 </div>
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DL4x&layout=compact&theme=dark&border_color=404040&bg_color=101010)](https://github.com/anuraghazra/github-readme-stats)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/DL4x?theme=dark&font=Noto%20Sans)
