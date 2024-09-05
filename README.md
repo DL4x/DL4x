@@ -18,3 +18,8 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DL4x&layout=compact&theme=dark&border_color=404040&bg_color=101010)](https://github.com/anuraghazra/github-readme-stats)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/DL4x?theme=dark&font=Noto%20Sans)
+
+### :hammer_and_wrench: Languages and Tools:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+</div>
