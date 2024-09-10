@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### :fire: About Me:
 - :man_technologist: I'm a junior web developer
-- :mag: My own website: [*here :)*](http://eshulpin.ru)
+- :mag: My own website: [*http://eshulpin.ru*](http://eshulpin.ru)
 - :mailbox: How to reach me: <a href="https://t.me/dl4xxl300"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram" alt="Telegram Badge"/></a>
 
 ---
